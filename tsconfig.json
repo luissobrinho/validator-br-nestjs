@@ -8,8 +8,7 @@
     "types": ["node", "@types/jest"],
     "lib": ["es2020", "dom"],
     "strict": true,
-    "paths": {
-
-    }
-  }
+    "outDir": "./dist"
+  },
+  "include": ["src/**/*", "index.ts"]
 }

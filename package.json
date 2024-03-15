@@ -1,8 +1,8 @@
 {
   "name": "validator-br-nestjs",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "Integração do validation-br com o NestJS, fornecendo decorators de validação para tipos específicos de dados brasileiros.",
-  "main": "index.js",
+  "main": "dist/index.js",
   "license": "MIT",
   "keywords": [
     "nestjs",
