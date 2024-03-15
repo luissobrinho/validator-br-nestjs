@@ -2,7 +2,7 @@
 
 [![npm](https://img.shields.io/npm/v/validator-br-nestjs)](https://www.npmjs.com/package/validator-br-nestjs)
 [![npm](https://img.shields.io/npm/dm/validator-br-nestjs)](https://www.npmjs.com/package/validator-br-nestjs)
-[![License](https://img.shields.io/github/license/luissobrinho/validator-br-nestjs)](https://github.com/luissobrinho/validator-br-nestjs/blob/main/LICENSE)
+[![GitHub License](https://img.shields.io/github/license/luissobrinho/validator-br-nestjs)](https://github.com/luissobrinho/validator-br-nestjs/blob/main/LICENSE)
 [![Build Status](https://app.travis-ci.com/luissobrinho/validator-br-nestjs.svg?token=gs4ppZM37dTmyY3bqidr&branch=main)](https://app.travis-ci.com/luissobrinho/validator-br-nestjs)
 
 
