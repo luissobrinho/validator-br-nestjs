@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "experimentalDecorators": true,
+    "target": "es2017",
+    "module": "commonjs",
+    "types": ["node", "@types/jest"],
+    "lib": ["es2020", "dom"],
+    "strict": true,
+    "paths": {
+
+    }
+  }
+}
